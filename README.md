@@ -11,8 +11,8 @@ About Page (Basic Routing)
 
 User Page (Modular Routing)
 
-![Server_user](https://github.com/user-attachments/assets/bb000a07-9c40-4800-96f7-1ded81f668c4)
+![Server_user](https://github.com/user-attachments/assets/83fa0d80-6a1b-4211-8997-9018cc730552)
 
 Error Handler Page
 
-![Server_api_error](https://github.com/user-attachments/assets/777a9cbf-da19-403d-af24-747c68d8b73b)
+![Server_error_handler](https://github.com/user-attachments/assets/90ca174e-422c-4be9-a78a-cb4b23d99320)
